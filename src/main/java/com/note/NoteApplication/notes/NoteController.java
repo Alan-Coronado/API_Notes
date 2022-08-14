@@ -10,7 +10,7 @@ import java.util.Optional;
 
 @RestController
 @CrossOrigin
-@RequestMapping("notes")
+@RequestMapping("/notes")
 public class NoteController {
 
     private final NoteService noteService;
