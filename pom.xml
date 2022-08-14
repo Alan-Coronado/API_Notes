@@ -56,6 +56,9 @@
         			<version>3.0.3</version>
       			</plugin>
 		</plugins>
+		<configuration>
+  			<appName>NoteApplication</appName>
+		</configuration>
 	</build>
 
 </project>
